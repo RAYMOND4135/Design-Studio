@@ -2500,6 +2500,7 @@
 
     .imgdiv2 {
         width: 100%;
+        border:10px solid red;
     }
 
     .imgdiv3 {
